@@ -1,5 +1,5 @@
 @ECHO off
-REM This script has been created by Zarco Zwier, Aug 6th, 2017
+REM This script has been created by Ocraz
 REM This script can freely be re-used and distributed as long as this comment remains.
 REM WARNING: THIS SCRIPT MESSES WITH YOUR SUBSTED OR NETWORK MAPPED DRIVES!
 REM USE AT YOUR OWN RISK AND ONLY FOR BENIGN PURPOSES!
